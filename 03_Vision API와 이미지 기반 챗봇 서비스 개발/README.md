@@ -9,6 +9,10 @@ https://namu.wiki/w/%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC%20%EB%AA%A8%EB%8D%B8
 https://huggingface.co/
 <br>
 
+### LLAVA 모델 문서:
+https://huggingface.co/docs/transformers/model_doc/llava
+<br>
+
 #### AI Hub :
 https://aihub.or.kr/
 <br>
